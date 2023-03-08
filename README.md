@@ -6,8 +6,6 @@
 
 - 🔥 I'm a Junior in IT Infrastructure and also programming
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
 - 💬 Ask me about **Docker, AWS, Oracle Cloud, PHP**
 
 <br><br>
