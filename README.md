@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![WordPress](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=wordpress)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Moodle](https://img.shields.io/badge/-Moodle-05122A?style=flat&logo=PHP)&nbsp;
 ![Docker](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=docker)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-05122A?style=flat&logo=oracle)&nbsp;
