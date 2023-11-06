@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdoni9&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm a Junior in IT Infrastructure and also programming
+- 🔥 I'm a junior back-end development and also a junior IT infrastructure
 
-- 💬 Ask me about **Docker, AWS, Oracle Cloud, PHP**
+- 💬 Ask me about **Nodejs, Nestjs, VueJs, Docker, AWS, Oracle Cloud, PHP**
 
 <br><br>
 
