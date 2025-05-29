@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdoni9&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm a junior back-end development and also a junior IT infrastructure
+- 🔥 I'm a pleno back-end development and also a pleno IT infrastructure
 
 - 💬 Ask me about **Nodejs, Nestjs, VueJs, Docker, AWS, Oracle Cloud, PHP**
 
